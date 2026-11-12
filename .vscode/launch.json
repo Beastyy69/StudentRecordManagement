@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Student Record Management System",
+            "request": "launch",
+            "mainClass": "com.srms.Main",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
